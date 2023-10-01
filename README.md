@@ -30,7 +30,7 @@ python3 train.py \
 ```
 #### Evaluation
 ```
-	python3 train.py \
+python3 train.py \
     --use-cuda \
     --resume \
     [--timestep 10] \
